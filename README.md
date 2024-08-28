@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meetoza30
+- 👋 Hey, I’m Meet!
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on frontend based projects.
