@@ -1,5 +1,5 @@
 # 💫 About Me:
-Engineering undergrad<br>- I'm currently exploring Backend dev.<br><br>
+Engineering undergrad<br>- Currently exploring Web3.<br><br>
 
 
 ## 🌐 Socials:
