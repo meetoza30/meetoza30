@@ -1,5 +1,5 @@
 # 💫 About Me:
-Engineering undergrad<br>- Currently exploring Agentic AI.<br><br>
+Engineering undergrad<br>- Currently exploring Devops.<br><br>
 
 
 ## 🌐 Socials:
